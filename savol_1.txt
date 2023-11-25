@@ -1,0 +1,6 @@
+Alembic - asosiy vazifasi proektlni qilishda sizning qadamlarini saqlab boradi. Uning uchun migrationdan foydalanish zarur.
+
+git branch
+git status
+git add .
+git commit -m 'test'
